@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SSDivyaRavali
-- 👀 I’m interested in Data Science,ML,Deep Learning,AI
-- 🌱 I’m currently learning MLOPS,LLMS
+- 👀 I’m interested in Data Science,ML,Deep Learning,AI,LLMS
+- 🌱 I’m currently learning MLOPS,Multi Agentic Systems
 - 💞️ I’m looking to collaborate on Conversational AI projects
 - 📫 How to reach me ssdivyaravali@gmail.com
 
